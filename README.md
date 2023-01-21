@@ -1,4 +1,4 @@
-![60jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![60jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=60jong&show_icons=true&theme=radical)
 
 <!--
 **60jong/60jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
