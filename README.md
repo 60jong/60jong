@@ -1,7 +1,7 @@
 ![60jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=60jong&show_icon=true&theme=kacho_ga)
 
 
-<img src="http://localhost:9001/members/get-image">
+<img src="http://localhost:9001/members/get-image](https://ozimg.flyasiana.com/temp/image/20221201/af1b0fb4-5483-48ef-9d9a-2b8551625e32.jpeg">
 <!--
 **60jong/60jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
