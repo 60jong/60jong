@@ -1,5 +1,7 @@
 ![60jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=60jong&show_icons=true&theme=kacho_ga)
 
+
+![60jong](https://www.koreanair.com/content/dam/koreanair/ko/mainevent/202301/domesticflight/img/dom-cashandmiles-banner-640X320.png)
 <!--
 **60jong/60jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
