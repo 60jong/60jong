@@ -1,7 +1,7 @@
 ![60jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=60jong&show_icons=true&theme=kacho_ga)
 
 
-![60jong](https://www.koreanair.com/content/dam/koreanair/ko/mainevent/202301/domesticflight/img/dom-cashandmiles-banner-640X320.png)
+![60jong](https://www.koreanair.com/content/dam/koreanair/ko/mainevent/202301/domesticflight/img/dom-cashandmiles-banner-640X320.png](https://todoarybucket.s3.ap-northeast-2.amazonaws.com/todoary/users/info/4/profile-img/c3e6932d-999c-4336-96a9-b6d6af406f78))
 <!--
 **60jong/60jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
