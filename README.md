@@ -1,7 +1,5 @@
 ![60jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=60jong&show_icon=true&theme=kacho_ga)
 
-![z](https://flyvent.site:9001/members/velog/post-stats?username=rudwhd515)
-
 <!--
 **60jong/60jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
