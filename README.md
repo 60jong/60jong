@@ -1,8 +1,6 @@
 ![60jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=60jong&show_icon=true&theme=kacho_ga)
 
 ![60jong's velog stats](https://jongky.shop:8080/velog-stats?username=rudwhd515&refresh_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZTIxMTY0ZWEtNGFmYy00M2JiLTk0ZDctN2UyMjFmMTA3ZDQyIiwidG9rZW5faWQiOiJjNTIzZTQ0ZS1jMWI2LTQxMDctOGU1NS05ZWZiN2M4MTc1NTUiLCJpYXQiOjE2NzYyODg0NzAsImV4cCI6MTY3ODg4MDQ3MCwiaXNzIjoidmVsb2cuaW8iLCJzdWIiOiJyZWZyZXNoX3Rva2VuIn0.vzGYbVScfN_7ngJi8zNYsUpCqjCMKiT0xl8jlZTcqeg)
-
-![jongly](https://jongky.shop:8080/velog-stats?username=jongky&refresh_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZjEwNDk2ODgtZTRiYy00Y2UyLTgzOGUtZmZlYTJkNWI5Yjg5IiwidG9rZW5faWQiOiJmZTkxZWUwZS1jOWJjLTQxMmEtYjUyMS1kMWNhZjMxZjQ4N2UiLCJpYXQiOjE2NzYzMDYwOTUsImV4cCI6MTY3ODg5ODA5NSwiaXNzIjoidmVsb2cuaW8iLCJzdWIiOiJyZWZyZXNoX3Rva2VuIn0.TBLN_5tzj858kM6eYVF9K0SRJNWmwNQTzGBymg6RHWU)
 <!--
 **60jong/60jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
