@@ -2,6 +2,7 @@
 
 ![60jong's velog stats](https://jongky.shop:8080/velog-stats?username=rudwhd515&refresh_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZTIxMTY0ZWEtNGFmYy00M2JiLTk0ZDctN2UyMjFmMTA3ZDQyIiwidG9rZW5faWQiOiI3ZjVmZGM2My0yODdhLTQwZTItOWEyZi0wZTk4N2ZmOGJhNDMiLCJpYXQiOjE2NzYzMDYyNDQsImV4cCI6MTY3ODg5ODI0NCwiaXNzIjoidmVsb2cuaW8iLCJzdWIiOiJyZWZyZXNoX3Rva2VuIn0.Ix16KkfVPi844vBVQmDoNOo32mVj5plTgkhV0WYqB3Q)
 
+![jongky](https://jongky.shop:8080/velog-stats?username=jongky&refresh_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZjEwNDk2ODgtZTRiYy00Y2UyLTgzOGUtZmZlYTJkNWI5Yjg5IiwidG9rZW5faWQiOiJlODZiNGYzMC01Zjk4LTQ2MWEtYjQwYy00Njc1MmQwNmIyNjQiLCJpYXQiOjE2NzY1Njg0MTgsImV4cCI6MTY3OTE2MDQxOCwiaXNzIjoidmVsb2cuaW8iLCJzdWIiOiJyZWZyZXNoX3Rva2VuIn0.Dhg61C-Ro6ri4BgiFRFLf9ivdf2gcJH27Sq8Gim4g98)
 <!--
 **60jong/60jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
