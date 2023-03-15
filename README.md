@@ -1,5 +1,4 @@
 ![60jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=60jong&show_icon=true&theme=kacho_ga)
-![rudwhd515's Velog Stats](http://localhost:8080/api/v1/velog-stats?username=rudwhd515)
 <!--
 **60jong/60jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
