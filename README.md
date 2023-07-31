@@ -1,6 +1,8 @@
 ### GitHub Stats <br/>
 ![60jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=60jong&show_icon=true&theme=kacho_ga)
 
+### PS
+![60jong's BOJ stats](http://mazassumnida.wtf/api/generate_badge?boj=rudwhd515)
 ### <a href="https://velog.io/@rudwhd515" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> Stats <br/>
 ![60jong's velog stats](https://post-stat-view.60jong.site/api/v1/velog-stats?username=rudwhd515&show_visitors=true)
 <!--
