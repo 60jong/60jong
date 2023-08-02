@@ -1,5 +1,5 @@
 #### GitHub
-![60jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudwhd515&show_icon=true&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudwhd515&layout=compact)
+![60jong's GitHub stats](https://github-readme-stats.vercel.app/api?username=60jong&show_icon=true&hide_border=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=60jong&layout=compact)
 
 #### PS
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rudwhd515)](https://solved.ac/rudwhd515) 
