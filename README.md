@@ -4,7 +4,6 @@
 #### PS
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rudwhd515)](https://solved.ac/rudwhd515) 
 
-
 #### Blog
 ![60jong's velog stats](https://post-stat-view.do-main.site/api/v2/velog-stat/view?username=rudwhd515&show_visitors=true) 
 
