@@ -6,7 +6,7 @@
 
 
 #### Blog
-![60jong's velog stats]([https://post-stat-view.60jong.dev](https://port-0-poststatview-mm77w39zfcca693a.sel3.cloudtype.app/api/v2/velog-stat/view?username=rudwhd515&show_visitors=true) 
+![60jong's velog stats](https://port-0-poststatview-mm77w39zfcca693a.sel3.cloudtype.app/api/v2/velog-stat/view?username=rudwhd515&show_visitors=true) 
 
 <!--
 **60jong/60jong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
